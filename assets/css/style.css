@@ -1,0 +1,33 @@
+.topbar-wrapper {
+    background-color: #1f272b;
+}
+
+.topbar-text-wrapper {
+    padding: 4px 0px;
+}
+
+.topbar-wrapper p {
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #fafafa;
+}
+
+.topbar-icon-wrapper {
+    text-align: right;
+    padding: 4px 0px;
+}
+
+.topbar-icon {
+    margin-bottom: 0;
+}
+
+.topbar-icon li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.topbar-icon li a {
+    color: #fff;
+    font-size: 14px;
+}
