@@ -211,7 +211,7 @@ li {
 .service-section {
     position: absolute;
     width: 100%;
-    top: 500px;
+    top: 730px;
     z-index: 2;
 }
 
@@ -223,6 +223,7 @@ li {
     background-size: cover;
     background-position: center center;
     padding-bottom: 120px;
+    margin-top: -7px;
 }
 
 .section-heading h4 {
@@ -351,3 +352,109 @@ li {
     padding: 7px 12px;
     border-radius: 10px;
 }
+
+
+/* ================== Bachelor Degree =================== */
+.bachelor-degree {
+    background-image: url('../images/apply-bg.jpg');
+    padding-top: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 120px;
+}
+
+.apply-bd h4 {
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.apply-bd p {
+    color: #fff;
+    font-size: 14px;
+}
+
+.bg-red {
+    background: #a12c2f;
+}
+
+.join-us-now-btn {
+    text-align: center;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 22px;
+    font-size: 13px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.apply-bd {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 30px;
+}
+
+.about-edu-meeting {
+    border-radius: 20px;
+    background: #fff;
+    padding: 40px;
+}
+
+.about-edu-meeting .accordion .card-header {
+    border: 0;
+    background: transparent;
+}
+
+.about-edu-meeting .accordion .card {
+    border: 0;
+}
+
+.about-edu-meeting .accordion .collapse-btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.about-edu-meeting .accordion .collapse-btn {
+    color: rgb(255, 193, 7);
+}
+
+.about-edu-meeting .accordion .collapsed {
+    color: #000;
+}
+
+/* ================== End Bachelor Degree =================== */
+
+/* ================== Popular Course =================== */
+.popular-course {
+    background-image: url('../images/meetings-bg.jpg');
+    padding-top: 70px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-bottom: 120px;
+}
+
+.popular-course .section-heading h4 {
+    text-align: left;
+}
+
+.popular-course-content {
+    background: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.popular-course-content h4 {
+    font-size: 18px;
+}
+
+.popular-course-footer {
+    background-color: #fff;
+    border-top: 1px solid #eee;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* ================== End Popular Course =================== */
