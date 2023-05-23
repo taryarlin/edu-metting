@@ -458,3 +458,184 @@ li {
 }
 
 /* ================== End Popular Course =================== */
+
+/* ================== Our Fact =================== */
+.our-fact {
+    background-image: url('../images/facts-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 140px 0px 125px 0px;
+}
+
+.our-fact h2 {
+    font-size: 38px;
+    color: #fff;
+    line-height: 50px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+}
+
+.count-content-area {
+    text-align: center;
+    background-color: rgba(250, 250, 250, 0.2);
+    border-radius: 20px;
+    padding: 25px 30px 35px 30px;
+    margin: 15px 0px;
+}
+
+.percent-counter {
+    margin: 5px 0px;
+    color: #f5a425;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.percent-count-title {
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    letter-spacing: 0.5px;
+}
+
+.new-student {
+    margin-top: 45px;
+}
+
+.fact-video {
+    text-align: center;
+    margin-left: 70px;
+    background-image: url('../images/video-item-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.fact-video img {
+    padding: 170px 0px;
+    max-width: 60px;
+}
+
+/* ================== End Our Fact =================== */
+
+/* ================== Contact Us =================== */
+.contact-us h2 {
+    font-size: 22px;
+    color: #1f272b;
+    font-weight: 700;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.contact-us {
+    background-image: url('../images/meetings-bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 140px 0px 0px 0px;
+}
+
+#contact_form {
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+#contact_form input {
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #f7f7f7;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #1f272b;
+    padding: 0px 15px;
+    margin-bottom: 30px;
+}
+
+#contact_form textarea {
+    width: 100%;
+    border-radius: 20px;
+    background-color: #f7f7f7;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #1f272b;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+#form_submit {
+    font-size: 13px;
+    color: #fff;
+    background-color: #a12c2f;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    transition: .3s;
+}
+
+#form_submit:hover {
+    background-color: #363e42;
+    color: #fff;
+}
+
+.right-info {
+    background-color: #a12c2f;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.right-info ul li h6 {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.right-info ul li span {
+    display: block;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.right-info ul li {
+    display: inline-block;
+    border-bottom: 1px solid rgba(250, 250, 250, 0.2);
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+/* ================== End Contact Us =================== */
+/* ================== Footer =================== */
+.footer p {
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #fff;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 140px;
+    border-top: 1px solid rgba(250, 250, 250, 0.2);
+    padding: 50px 0px;
+}
+
+/* ================== End Footer =================== */
